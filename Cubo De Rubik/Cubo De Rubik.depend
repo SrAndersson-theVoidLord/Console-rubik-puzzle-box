@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1566137962 source:c:\users\cardo\onedrive\escritorio\cardo\programacion\cubo de rubik\cubo de rubik\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1566139620 c:\users\cardo\onedrive\escritorio\cardo\programacion\cubo de rubik\cubo de rubik\funciones.h
+	<iostream>
+	"rlutil.h"
+	"movimientos.h"
+
+1566077121 c:\users\cardo\onedrive\escritorio\cardo\programacion\cubo de rubik\cubo de rubik\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1566137947 c:\users\cardo\onedrive\escritorio\cardo\programacion\cubo de rubik\cubo de rubik\movimientos.h
+	<iostream>
+
+1566508069 source:c:\users\lgreco\desktop\software ideas\structs\cubo de rubik\cubo de rubik\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"funciones.h"
+	"rlutil.h"
+
+1566507873 c:\users\lgreco\desktop\software ideas\structs\cubo de rubik\cubo de rubik\funciones.h
+	<iostream>
+	"rlutil.h"
+	"movimientos.h"
+
+1566507873 c:\users\lgreco\desktop\software ideas\structs\cubo de rubik\cubo de rubik\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1566507873 c:\users\lgreco\desktop\software ideas\structs\cubo de rubik\cubo de rubik\movimientos.h
+	<iostream>
+
