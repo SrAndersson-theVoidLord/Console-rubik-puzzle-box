@@ -11,11 +11,17 @@ How to play:
 console
 
 1.Go to properties.
+
 2.Choose font.
+
 3.In the font type, select bitmap.
+
 4.Set the size to 8x8.
+
 5.Go to design.
+
 6.In window size, adjust the width and height of the window to make it as large as possible.
+
 7.Click OK, and then go fullscreen.
 
 Keymap Notation/Movements:
