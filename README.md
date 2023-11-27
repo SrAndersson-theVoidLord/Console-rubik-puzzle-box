@@ -6,38 +6,35 @@ About:
 I really don't think there much to say about this.It is basically a Souless boredom proyect made in 2019 that I never bother to finish or publish before. Have fun, or just copy the code and make a better version yourself. Enjoy!
 
 How to play:
+
 console
-1- ir a propiedades
-2- poner fuente
-3- en tipo de fuente, poner mapa de bits
-4- en tamaño poner 8x8
-5- ir a diseño 
-6- en tamaño de ventana, ajustar ancho y alto de
-   la ventana para que sea lo mas grande posible
-7- poner aceptar, y luego poner pantalla completa
+Go to properties.
+Choose font.
+In the font type, select bitmap.
+Set the size to 8x8.
+Go to design.
+In window size, adjust the width and height of the window to make it as large as possible.
+Click OK, and then go fullscreen.
 
-Notacion/Movimientos:
+Keymap Notation/Movements:
 
-U = letra J
-U'= letra F
-D = letra A
-D'= letra Ñ
-L = letra S
-L'= letra D
-R = letra K
-R'= letra L
-F = letra M
-F'= letra C
+U = letter J
+U' = letter F
+D = letter A
+D' = letter Ñ
+L = letter S
+L' = letter D
+R = letter K
+R' = letter L
+F = letter M
+F' = letter C
 
-M = letra G
-M'= letra H
-E = letra V
-E'= letra N
+M = letter G
+M' = letter H
+E = letter V
+E' = letter N
 
-X = flecha arriba
-X'= flecha abajo
-Y = flecha izquierda
-Y'= flecha derecha
-
-faltan 2 movimientos pero despues los agrego xd 
-abran el ejecutable :v
+X = up arrow
+X' = down arrow
+Y = left arrow
+Y' = right arrow
