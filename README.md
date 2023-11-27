@@ -8,25 +8,35 @@ I really don't think there much to say about this.It is basically a Souless bore
 How to play:
 
 console
-Go to properties.
-Choose font.
-In the font type, select bitmap.
-Set the size to 8x8.
-Go to design.
-In window size, adjust the width and height of the window to make it as large as possible.
-Click OK, and then go fullscreen.
+
+1.Go to properties.
+2.Choose font.
+3.In the font type, select bitmap.
+4.Set the size to 8x8.
+5.Go to design.
+6.In window size, adjust the width and height of the window to make it as large as possible.
+7.Click OK, and then go fullscreen.
 
 Keymap Notation/Movements:
 
 U = letter J
+
 U' = letter F
+
 D = letter A
+
 D' = letter Ñ
+
 L = letter S
+
 L' = letter D
+
 R = letter K
+
 R' = letter L
+
 F = letter M
+
 F' = letter C
 
 M = letter G
