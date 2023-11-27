@@ -1,5 +1,6 @@
 # Console-rubik-puzzle-box
 Just a quick rubik puzzle box game
+
 Disclaimer:I really don't think there is going to be a version 2.0
 
 About:
